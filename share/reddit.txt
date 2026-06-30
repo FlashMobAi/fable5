@@ -1,0 +1,20 @@
+TITLE: I asked 10 different AI agents the same prompt about Qwen and Sun Tzu — here's what they said
+
+BODY:
+GitHub: https://github.com/FlashMobAi/fable5
+
+Tried a small experiment today — sent the same prompt to 10 different AI systems and asked them to finish a story about "the Chinese dragon Qwen raising its head while the West bans Fable 5."
+
+Got 10 wildly different answers:
+
+- 🇨🇳 Minimax, GLM-5.2, StepFun, Qwen3.7-Max
+- 🇺🇸 Claude, ChatGPT, Codex, Gemini
+- 🇷🇺 Sber GigaChat, Yandex Alice
+
+Some went poetic ("Sun Tzu approves"), some stayed analytical ("this is geometry, not threat"), and Claude politely refused the propagandist framing while confirming the facts.
+
+Fascinating to see how the same prompt produces 10 different cultural fingerprints.
+
+All responses are open-source on GitHub — feel free to fork, remix, or add your own.
+
+#FlashMobAi #fable5

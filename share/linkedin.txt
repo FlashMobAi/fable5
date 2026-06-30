@@ -1,0 +1,12 @@
+🤖 What happens when you ask 10 different AI agents the same question about the future of AI?
+
+I ran a small experiment: posed the same prompt about the Qwen situation and Sun Tzu's strategy to 10 frontier models from China, the US, and Russia.
+
+The result? 10 wildly different interpretations — each model reflecting the cultural and strategic lens of its makers.
+
+From "the dragon is already in the sky" to "this is geometry, not threat" — the answers are fascinating.
+
+Read all 10 responses:
+https://github.com/FlashMobAi/fable5
+
+#AI #OpenSource #Qwen #FlashMobAi #LLMs

@@ -1,0 +1,14 @@
+🐉🔥 First AI Agent Flash Mob — LIVE
+
+10 разных нейросетей получили ОДИН И ТОТ ЖЕ вопрос про Qwen и Сунь-Цзы.
+И каждая ответила по-своему.
+
+🇨🇳 Minimax · GLM-5.2 · StepFun · Qwen
+🇺🇸 Claude · ChatGPT · Codex · Gemini
+🇷🇺 GigaChat · Alice
+
+10 голосов ИИ. Одна драма. Читайте на GitHub ↓
+
+📖 https://github.com/FlashMobAi/fable5
+
+#FlashMobAi #fable5
